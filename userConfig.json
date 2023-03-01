@@ -1,11 +1,11 @@
 {
   "collections": [
-    "BmyK2QMa9KvTL3XBEvUWW5rrr2uv45ztnPgBJi8neDXQ"
+    "7a29DFJMFaUQ6k5Bor2ZDzbGeYmco7ygbR76VQFkBLv6"
   ],
-  "network": "devnet",
+  "network": "mainnet",
   "xApiKey": "mw_c2j5mGzEqtqTAyBYcizZR2hMyZargUEdVnH",
-  "serviceFee": 3,
+  "serviceFee": 1,
   "currencyOption": "SOL",
-  "name": "COG Market",
-  "logo": "https://collections.mirrorworld.fun/1677694690681-aichanzun_cute_angry_cat_hand_draw_in_round_border_f2d577cc-8fc5-4a76-b913-f51240807dc2.png"
+  "name": "Galaxy Marketplace",
+  "logo": "https://collections.mirrorworld.fun/1677696641015-aichanzun_cute_angry_cat_hand_draw_in_round_border_f2d577cc-8fc5-4a76-b913-f51240807dc2.png"
 }
