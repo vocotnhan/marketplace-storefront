@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "BmyK2QMa9KvTL3XBEvUWW5rrr2uv45ztnPgBJi8neDXQ"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_c2j5mGzEqtqTAyBYcizZR2hMyZargUEdVnH",
+  "serviceFee": 3,
+  "currencyOption": "SOL",
+  "name": "COG Market",
+  "logo": "https://collections.mirrorworld.fun/1677694690681-aichanzun_cute_angry_cat_hand_draw_in_round_border_f2d577cc-8fc5-4a76-b913-f51240807dc2.png"
 }
